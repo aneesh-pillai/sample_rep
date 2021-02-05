@@ -1,1 +1,2 @@
-print("Hello World")
+def wish():
+  print("Hello World")
