@@ -3,6 +3,4 @@ def hw():
 
 def welcome():
 	print("welcome")
-def programme():
-	hw()
-	welcome()
+
