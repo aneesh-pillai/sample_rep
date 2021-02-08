@@ -1,4 +1,7 @@
-programming languages
+languages
 python
 java
 scala
+javascript
+html
+vba
